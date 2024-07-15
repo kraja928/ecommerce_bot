@@ -20,7 +20,7 @@ To set up the Ecommerce Chatbot locally, follow these steps:
 
 1. Clone the repository to your local machine:
 ```
-   git clone https://github.com/your-username/ecommerce-chatbot.git
+   git clone https://github.com/kraja928/ecommerce_bot.git 
 ```
 
 2. Navigate to the project directory:
